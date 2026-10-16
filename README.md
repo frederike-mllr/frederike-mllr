@@ -6,7 +6,7 @@ I work on machine learning approaches for reconstructing atmospheric boundary la
 
 **currently working on:**
 - ANN-based reconstruction of turbulence statistics from LES (paper 1)
-- adaptive scanning strategies for wind lidar measurements (paper 2)
+- adaptive scanning strategies for wind lidar measurements
 - ROVER: drone-based atmospheric field campaigns
 
 **tools i work with:**
